@@ -1,0 +1,8 @@
+name: PermsSystem
+author: Aventax
+version: 1.0.1
+main: de.aventax.PermsSystem
+
+commands:
+  rang:
+    permission: rang.*
